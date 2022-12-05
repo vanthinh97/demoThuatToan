@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\bin\Debug\net6.0\demoCalculateTimeElementAwait.exe
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\bin\Debug\net6.0\demoCalculateTimeElementAwait.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\bin\Debug\net6.0\demoCalculateTimeElementAwait.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\bin\Debug\net6.0\demoCalculateTimeElementAwait.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\bin\Debug\net6.0\demoCalculateTimeElementAwait.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\refint\demoCalculateTimeElementAwait.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\demoCalculateTimeElementAwait.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoCalculateTimeElementAwait\obj\Debug\net6.0\ref\demoCalculateTimeElementAwait.dll

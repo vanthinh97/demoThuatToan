@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\bin\Debug\net6.0\demoDiction.exe
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\bin\Debug\net6.0\demoDiction.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\bin\Debug\net6.0\demoDiction.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\bin\Debug\net6.0\demoDiction.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\bin\Debug\net6.0\demoDiction.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\refint\demoDiction.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\demoDiction.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDiction\obj\Debug\net6.0\ref\demoDiction.dll

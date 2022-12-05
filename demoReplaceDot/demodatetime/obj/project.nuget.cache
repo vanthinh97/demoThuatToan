@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffyUNLkukuGHQIr0jHicBlWTBSun+6LMc0+Yp/zz4xSA4HLLAz1vXf/te5VaoV9kojJYniwEGxSkuMnwma6TQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thinh\\OneDrive\\Desktop\\demoThuatToan\\demoReplaceDot\\demodatetime\\demodatetime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thinh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\bin\Debug\net6.0\demoDictionary.exe
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\bin\Debug\net6.0\demoDictionary.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\bin\Debug\net6.0\demoDictionary.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\bin\Debug\net6.0\demoDictionary.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\bin\Debug\net6.0\demoDictionary.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\refint\demoDictionary.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\demoDictionary.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoDictionary\obj\Debug\net6.0\ref\demoDictionary.dll

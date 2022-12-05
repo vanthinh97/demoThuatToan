@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\bin\Debug\net6.0\demoSwitchCase.exe
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\bin\Debug\net6.0\demoSwitchCase.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\bin\Debug\net6.0\demoSwitchCase.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\bin\Debug\net6.0\demoSwitchCase.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\bin\Debug\net6.0\demoSwitchCase.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\refint\demoSwitchCase.dll
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.pdb
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\demoSwitchCase.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoReplaceDot\demoSwitchCase\obj\Debug\net6.0\ref\demoSwitchCase.dll
