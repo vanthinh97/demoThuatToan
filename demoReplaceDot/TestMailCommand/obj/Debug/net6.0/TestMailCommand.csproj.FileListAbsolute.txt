@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\bin\Debug\net6.0\TestMailCommand.exe
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\bin\Debug\net6.0\TestMailCommand.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\bin\Debug\net6.0\TestMailCommand.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\bin\Debug\net6.0\TestMailCommand.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\bin\Debug\net6.0\TestMailCommand.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\refint\TestMailCommand.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\TestMailCommand.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TestMailCommand\obj\Debug\net6.0\ref\TestMailCommand.dll

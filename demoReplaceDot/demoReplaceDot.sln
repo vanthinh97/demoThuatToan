@@ -17,7 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demoDictionary", "demoDicti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demoCalculateTimeElementAwait", "demoCalculateTimeElementAwait\demoCalculateTimeElementAwait.csproj", "{106BED9C-2F87-4DF2-9720-BFD09D53A835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoSwitchCase", "demoSwitchCase\demoSwitchCase.csproj", "{AA4016DC-29BC-42C8-A292-55ADAD9950DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demoSwitchCase", "demoSwitchCase\demoSwitchCase.csproj", "{AA4016DC-29BC-42C8-A292-55ADAD9950DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "checkParseInt", "checkParseInt\checkParseInt.csproj", "{82ED7EA9-0DA9-42A8-98D2-51C02BD04C50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPhoneNumber", "CheckPhoneNumber\CheckPhoneNumber.csproj", "{3B786CBE-D0D5-407F-9B3C-807E7E026F3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TESTEMAIL", "TESTEMAIL\TESTEMAIL.csproj", "{BEBF5903-34CD-439A-9DA6-66E667EAB7DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testmailEA", "testmailEA\testmailEA.csproj", "{9C2547AF-CFFE-4405-84A0-5F811E73C306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMailCommand", "TestMailCommand\TestMailCommand.csproj", "{20E4E113-4AA4-444B-B7E2-F46CC5869B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTelnetLinux", "TestTelnetLinux\TestTelnetLinux.csproj", "{74A2A435-CDFE-4F8E-87B3-ABC697B8932F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +69,30 @@ Global
 		{AA4016DC-29BC-42C8-A292-55ADAD9950DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA4016DC-29BC-42C8-A292-55ADAD9950DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA4016DC-29BC-42C8-A292-55ADAD9950DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ED7EA9-0DA9-42A8-98D2-51C02BD04C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ED7EA9-0DA9-42A8-98D2-51C02BD04C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ED7EA9-0DA9-42A8-98D2-51C02BD04C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ED7EA9-0DA9-42A8-98D2-51C02BD04C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B786CBE-D0D5-407F-9B3C-807E7E026F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B786CBE-D0D5-407F-9B3C-807E7E026F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B786CBE-D0D5-407F-9B3C-807E7E026F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B786CBE-D0D5-407F-9B3C-807E7E026F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBF5903-34CD-439A-9DA6-66E667EAB7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBF5903-34CD-439A-9DA6-66E667EAB7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBF5903-34CD-439A-9DA6-66E667EAB7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBF5903-34CD-439A-9DA6-66E667EAB7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2547AF-CFFE-4405-84A0-5F811E73C306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2547AF-CFFE-4405-84A0-5F811E73C306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2547AF-CFFE-4405-84A0-5F811E73C306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2547AF-CFFE-4405-84A0-5F811E73C306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E4E113-4AA4-444B-B7E2-F46CC5869B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E4E113-4AA4-444B-B7E2-F46CC5869B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E4E113-4AA4-444B-B7E2-F46CC5869B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E4E113-4AA4-444B-B7E2-F46CC5869B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A2A435-CDFE-4F8E-87B3-ABC697B8932F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A2A435-CDFE-4F8E-87B3-ABC697B8932F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A2A435-CDFE-4F8E-87B3-ABC697B8932F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A2A435-CDFE-4F8E-87B3-ABC697B8932F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

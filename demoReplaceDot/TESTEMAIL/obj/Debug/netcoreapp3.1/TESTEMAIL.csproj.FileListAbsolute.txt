@@ -1,0 +1,5 @@
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TESTEMAIL\obj\Debug\netcoreapp3.1\TESTEMAIL.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TESTEMAIL\obj\Debug\netcoreapp3.1\TESTEMAIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TESTEMAIL\obj\Debug\netcoreapp3.1\TESTEMAIL.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TESTEMAIL\obj\Debug\netcoreapp3.1\TESTEMAIL.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\TESTEMAIL\obj\Debug\netcoreapp3.1\TESTEMAIL.csproj.CoreCompileInputs.cache

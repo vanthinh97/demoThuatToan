@@ -18,10 +18,16 @@ namespace demodatetime
 
             var date1 = new DateTime(2008, 5, 1, 8, 30, 52);
             Console.WriteLine(date1);
+            Console.ReadLine();
 
             var startDate = new List<DateTime?> { time, date1 }.Max();
 
-            Console.WriteLine(startDate);
+            Console.WriteLine("startDate: " + startDate);
+
+            // demo cộng tháng
+            var date2 = new DateTime(2023, 3, 31, 8, 30, 52);
+            date2 = date2.AddMonths(1);
+            Console.WriteLine(date2);
         }
     }
 }

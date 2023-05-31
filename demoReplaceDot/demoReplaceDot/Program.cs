@@ -18,7 +18,10 @@ namespace demoReplaceDot
             {
                 // for loop end when i=-1 ('a' not found)
                 foundIndexes.Add(i);
+                Console.WriteLine(i);
             }
+
+            Console.WriteLine(foundIndexes.Count);
             //text.Replace(String.Format("~{0}~", searchValue), "~");
 
             //foreach (var item in foundIndexes)
@@ -34,7 +37,8 @@ namespace demoReplaceDot
                 s = s.Remove(foundIndexes[i] + 1, 1).Insert(foundIndexes[i] + 1, $"{i + 1}");
             }
 
-            Console.WriteLine(s);   
+            Console.WriteLine(s);
+
 
             Console.ReadLine();
 

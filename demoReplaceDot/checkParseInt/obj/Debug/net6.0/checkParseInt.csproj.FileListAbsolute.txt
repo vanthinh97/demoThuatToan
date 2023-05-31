@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\bin\Debug\net6.0\checkParseInt.exe
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\bin\Debug\net6.0\checkParseInt.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\bin\Debug\net6.0\checkParseInt.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\bin\Debug\net6.0\checkParseInt.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\bin\Debug\net6.0\checkParseInt.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\refint\checkParseInt.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\checkParseInt.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\checkParseInt\obj\Debug\net6.0\ref\checkParseInt.dll

@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\bin\Debug\net6.0\demoArray.exe
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\bin\Debug\net6.0\demoArray.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\bin\Debug\net6.0\demoArray.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\bin\Debug\net6.0\demoArray.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\bin\Debug\net6.0\demoArray.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\refint\demoArray.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\demoArray.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\demoArray\obj\Debug\net6.0\ref\demoArray.dll

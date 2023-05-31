@@ -1,0 +1,15 @@
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\bin\Debug\net6.0\CheckPhoneNumber.exe
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\bin\Debug\net6.0\CheckPhoneNumber.deps.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\bin\Debug\net6.0\CheckPhoneNumber.runtimeconfig.json
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\bin\Debug\net6.0\CheckPhoneNumber.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\bin\Debug\net6.0\CheckPhoneNumber.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.csproj.AssemblyReference.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.AssemblyInfo.cs
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\refint\CheckPhoneNumber.dll
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.pdb
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\CheckPhoneNumber.genruntimeconfig.cache
+C:\Users\thinh\OneDrive\Desktop\demoThuatToan\demoReplaceDot\CheckPhoneNumber\obj\Debug\net6.0\ref\CheckPhoneNumber.dll
